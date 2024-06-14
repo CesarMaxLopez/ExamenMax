@@ -1,0 +1,9 @@
+¿Qué significa CSS? Básicamente, es un lenguaje que maneja el diseño y presentación de las páginas web, es decir, cómo lucen cuando un usuario las visita.
+
+¿Cuál es el HTML correcto para hacer referencia a una hoja de estilo externa? El HTML correcto para hacer referencia a una hoja de estilo externa es utilizando la etiqueta <link> con el atributo href para especificar la URL de la hoja de estilo y el atributo rel con el valor "stylesheet". 
+
+¿En qué parte de un documento HTML está el lugar correcto para hacer referencia a una hoja de estilo externa? El lugar correcto para hacer referencia a una hoja de estilo externa en un documento HTML es dentro del elemento <head>.
+
+¿Qué etiqueta HTML se utiliza para definir una hoja de estilo interna? La etiqueta HTML que se utiliza para definir una hoja de estilo interna es <style>.
+
+¿Qué atributo HTML se utiliza para definir estilos en línea? El atributo HTML que se utiliza para definir estilos en línea es el atributo style. Se puede aplicar a cualquier elemento HTML para especificar estilos directamente en la etiqueta. 

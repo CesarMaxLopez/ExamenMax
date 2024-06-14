@@ -1,0 +1,8 @@
+ a:active {color:blue}
+body {
+  background-color: #52cb52;
+  color: #292424;
+  h1 {
+    color: blue;
+  }
+}

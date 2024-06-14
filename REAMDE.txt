@@ -1,0 +1,6 @@
+iniciar sesion 
+escojer numero de rango determinado (=>1 y =<5)
+verificar si es correcto
+sino
+mandar alerta
+cerrar sesion 
